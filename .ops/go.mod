@@ -1,0 +1,30 @@
+module test/ops
+
+go 1.25.0
+
+require (
+	labs.lesiw.io/ops v0.0.0-20260406001429-110419e870fa
+	lesiw.io/ops v0.15.0
+)
+
+require (
+	github.com/Antonboom/errname v1.1.1 // indirect
+	github.com/google/go-cmp v0.7.0 // indirect
+	golang.org/x/mod v0.34.0 // indirect
+	golang.org/x/sync v0.20.0 // indirect
+	golang.org/x/sys v0.42.0 // indirect
+	golang.org/x/telemetry v0.0.0-20260311193753-579e4da9a98c // indirect
+	golang.org/x/tools v0.43.0 // indirect
+	lesiw.io/checker v0.13.0 // indirect
+	lesiw.io/clerk v0.2.0 // indirect
+	lesiw.io/command v0.0.0-20260126021408-77eb589ec7af // indirect
+	lesiw.io/defers v0.9.0 // indirect
+	lesiw.io/errcheck v1.0.0 // indirect
+	lesiw.io/flag v0.7.0 // indirect
+	lesiw.io/fs v0.6.0 // indirect
+	lesiw.io/linelen v0.3.0 // indirect
+	lesiw.io/plscheck v0.21.0 // indirect
+	lesiw.io/prefix v0.1.0 // indirect
+	lesiw.io/tidytypes v0.2.0 // indirect
+	lesiw.io/zeros v0.3.0 // indirect
+)
